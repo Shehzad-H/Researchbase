@@ -36,4 +36,4 @@ v0.1 goals:
 - Users can follow links to original papers.
 - The Python backend validates data and handles errors.
 - Automated tests pass.
-- The website is accessible through a public **URL**.
+- The website is accessible through a public URL.
