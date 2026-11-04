@@ -1,4 +1,4 @@
-##What is ResearchBase?
+## What is ResearchBase?
 
 ResearchBase is a web platform that helps users discover scientific papers, find relevant research, and eventually use AI to understand and compare scientific findings.
 
